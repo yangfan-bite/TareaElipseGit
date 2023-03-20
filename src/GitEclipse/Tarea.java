@@ -8,6 +8,8 @@ public class Tarea {
 		System.out.println("Primer cambio 2commit");
 		System.out.println("Segunda rama Primer commit");
 		System.out.println("Segunda rama Segundo commit");
-		System.out.println("Segundo cambio 3 commit");
+		
+		System.out.println("Resolver conflicto al merge master con feeature");
+
 	}
 }
